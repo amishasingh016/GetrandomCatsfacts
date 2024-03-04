@@ -2,10 +2,8 @@
 
 Basic Page to get random and interesting facts about CATS
 <H2>TECH STACK USED :</H2>
-<li>
-  <ul>
-    HTML
-    CSS
-    JAVASCRIPT
-  </ul>
-</li>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+</ul>
