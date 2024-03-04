@@ -1,0 +1,14 @@
+.content{
+    justify-content: center;
+    align-items: center;
+   border-width: 2px;
+   border-style: solid;
+   border-color: blueviolet
+}
+*{
+    justify-content: center;
+    background-color: powderblue;
+}
+button{
+    background-color: bisque;
+}
